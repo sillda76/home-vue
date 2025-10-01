@@ -2,32 +2,11 @@
   {
     "name": "Server",
     "url": "https://dash.mikaya.dev",
-    "icon": "fa fa-blog"
+    "icon": "fa-solid fa-server"
   },
   {
-    "name": "图床",
-    "url": "https://img.xxxh.de",
+    "name": "Image",
+    "url": "https://feedback.jd.com/",
     "icon": "fa fa-image"
-  },
-  {
-    "name": "计算器",
-    "url": "https://jsq.xxxh.de",
-    "icon": "fa-solid fa-calculator"
-  },
-  {
-    "name": "监测",
-    "url": "https://status.xxxh.de",
-    "icon": "fa fa-chart-line"
-  },
-  {
-    "name": "MiniChat",
-    "url": "https://t.me/ilancet",
-    "icon": "fa-regular fa-comment-dots"
-  },
-  {
-    "name": "FileCodeBox",
-    "url": "https://file.xxxh.de",
-    "icon": "fa-solid fa-file-code"
   }
-
 ]
