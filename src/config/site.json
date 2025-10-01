@@ -5,6 +5,12 @@
     "icon": "fa-solid fa-server"
   },
   {
+    "name": "Server2",
+    "url": "https://komari.mikaya.dev",
+    "icon": "fa-duotone fa-server "
+  },
+  
+  {
     "name": "Image",
     "url": "https://feedback.jd.com/",
     "icon": "fa fa-image"
