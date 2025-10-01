@@ -67,8 +67,9 @@ const userName = ref(import.meta.env.VITE_APP_USER_NAME);
 const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
-  "与其感慨路难行，不如马上出发。",
-  "Better to run than curse the road."
+  "道のりの険しさを嘆くより、すぐに出発したほうがいい。",
+  "A journey of a thousand miles begins with a single step.",
+  "等待不會帶來答案，走路才會遇見風景。"
 ];
 
 let typedInstance = null;
