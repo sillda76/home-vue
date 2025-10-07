@@ -1,12 +1,12 @@
 [
   {
-    "name": "Server",
-    "url": "https://dash.mikaya.dev",
+    "name": "test1",
+    "url": "https://mikaya.dev",
     "icon": "fa-solid fa-server"
   },
   {
-    "name": "Server2",
-    "url": "https://komari.mikaya.dev",
+    "name": "test2",
+    "url": "https://mikaya.dev",
     "icon": "fa-solid fa-server "
   },
   
